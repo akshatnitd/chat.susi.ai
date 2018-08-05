@@ -2,21 +2,21 @@
 
 ### 1.Clone chat.susi.ai रिपॉजिटरी आपके डेस्कटॉप पर है
 
-`git क्लोन https: // github.com / fossasia / chat.susi.ai`
+`git क्लोन https://github.com/fossasia/chat.susi.ai`
 
-! [जीआईटी क्लोन] (./ img / gitclone.png)
+! [जीआईटी क्लोन] (./img/gitclone.png)
 
 ### 2. निर्देशिका को क्लोन रिपॉज़िटरी में बदलें
 
 `सीडी चैट.susi.ai`
 
-[सीडी] (./ img / cd.png)
+[सीडी] (./img/cd.png)
 
 ### 3. स्थापित निर्भरताएं
 
 `एनपीएम इंस्टॉल`
 
-! [एनपीएम इंस्टॉल] (./ img / npmistall.png)
+! [एनपीएम इंस्टॉल] (./img/npmistall.png)
 
 आउटपुट: * (नमूना) *
 
@@ -64,8 +64,8 @@
 
 `एनपीएम रन की शुरुआत`
 
-! [रन शुरू] (./ img / run.png)
-! [आरंभ करें] (./ img / run2.png)
+! [रन शुरू] (./img/run.png)
+! [आरंभ करें] (./img/run2.png)
 
 आउटपुट: * (नमूना) *
     
